@@ -80,16 +80,16 @@ This generates all 5 clean CSV files needed for Power BI.
 ## 📸 Dashboard Preview
 
 ### Overview Page
-![Overview](screenshots/overview.png)
+![Overview](IPL%20Overview.png)
 
 ### Batting Analysis
-![Batting](screenshots/batting.png)
+![Batting](Batting%20Analysis.png)
 
 ### Bowling Analysis
-![Bowling](screenshots/bowling.png)
+![Bowling](Bowling%20Analysis.png)
 
 ### Team & Season Trends
-![Teams](screenshots/teams.png)
+![Teams](Team%20%26%20Season%20Trends.png)
 
 ---
 
