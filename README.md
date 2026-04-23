@@ -105,11 +105,11 @@ This generates all 5 clean CSV files needed for Power BI.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [https://github.com/Nithya-Kattimani]
-- LinkedIn: [https://www.linkedin.com/in/nithya-kattimani-149169218/]
+## 👤 Author
 
----
+**Nithya Kattimani**
+- GitHub: [@Nithya-Kattimani](https://github.com/Nithya-Kattimani)
+- LinkedIn: [Nithya Kattimani](https://www.linkedin.com/in/nithya-kattimani-149169218/)
 
 ## 📄 License
 
